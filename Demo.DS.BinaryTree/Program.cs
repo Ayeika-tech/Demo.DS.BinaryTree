@@ -1,5 +1,6 @@
 ﻿
 using Demo.DS.BinaryTree.Lib;
+using Demo.DS.BinaryTree.Lib.BinaryTree;
 
 /*var rootNode = new Node(1);
 
@@ -23,5 +24,3 @@ var result = tree.IsBalanced(new Node(1));
 Console.WriteLine(result);
 
 tree.Print();
-
-
