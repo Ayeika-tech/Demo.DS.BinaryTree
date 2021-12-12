@@ -1,1 +1,1 @@
-# Demo.DS.BinaryTree
+# Example of BinaryTree Data Structure
